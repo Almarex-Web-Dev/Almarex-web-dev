@@ -9,5 +9,3 @@
 i speak French, English and a little bit of Spanish<br />
 :video_game: I love gaming <br />
 :gift_heart: This is my Special gift to you !
-
-
