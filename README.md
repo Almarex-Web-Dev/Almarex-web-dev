@@ -1,11 +1,38 @@
-# :wave: Hello World <br/>
-:blush: I'm Abdullahi <br />
-:relieved: I'm a UI/UX Designer and an aspring Web Developer and a Youtuber <br />
-🖤 I love to bring new UI/UX Designs to live and turn it into a website <br/>
-🤪🤪I'm very friendly to interact with<br />
-😎 I'm always Open to new Oportunities that will enhance my skills and productivity<br />
-😇I'm Currently Learning Javascript <br />
-🤫 My Little secret... I'm deeply in love with Coding :heart:<br />
-i speak French, English and a little bit of Spanish<br />
-:video_game: I love gaming <br />
-:gift_heart: This is my Special gift to you !
+# Bienvenido aqui ! 😊
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I'm Almarex :blush: <br />
+- :relieved: I'm a UI/UX Designer and an aspring Web Developer and a Youtuber <br />
+- 🖤 I love to bring new UI/UX Designs to live and turn it into a website <br/>
+- 🤪🤪I'm very friendly to interact with<br />
+- 😎 I'm always Open to new Oportunities that will enhance my skills and productivity<br />
+- 😇I'm Currently Learning Javascript <br />
+- 🤫 My Little secret... I'm deeply in love with Coding :heart:<br />
+- :video_game: I love gaming <br />
+- i speak French, English and a little bit of Spanish<br />
+- :gift_heart: This is my Special gift to you !
+
+
+### Language used so far:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+## All Language stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Almarex-Web-Dev&layout=compact)](https://github.com/Almarex-Web-Dev/github-readme-stats)
+
+## My Design Tools
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![CorelDraw](https://img.shields.io/badge/Corel-Draw-%23F24E1E.svg?style=flat-square&logo=Corel-Draw&logoColor=#cc6c06)
+![svgator](https://img.shields.io/badge/svgator-%23F24E1E.svg?style=flat-square&logo=svgator&logoColor=white)
+
+
+## My GitHub Stats
+[![Almarex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Almarex-Web-Dev&show_icons=true&theme=gruvbox)](https://github.com/Almarex-Web-Dev/github-readme-stats)
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Almarex-Web-Dev&theme=onedark" />
+
+
+### Stay Updated !!
+
+<p>This is not all ! More is coming ahead ... </p>
