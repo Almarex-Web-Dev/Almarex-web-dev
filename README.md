@@ -18,6 +18,10 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React JS](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node Js](https://img.shields.io/badge/-Node-black?style=flat-square&logo=node)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Mongo DB](https://img.shields.io/badge/-Mongo-black?style=flat-square&logo=mongo)
+
 ## All Language stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Almarex-Web-Dev&layout=compact)](https://github.com/Almarex-Web-Dev/github-readme-stats)
 
