@@ -1,5 +1,6 @@
 # Bienvenido aqui ! 😊
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I'm Almarex :blush: <br />
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+- I'm Almarex :blush: <br />
 - :relieved: I'm a UI/UX Designer, Web Developer and a Youtuber <br />
 - 🖤 I love to bring new UI/UX Designs to live and turn it into a website <br/>
 - 🤪🤪I'm very friendly to interact with<br />
@@ -18,9 +19,9 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React JS](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node Js](https://img.shields.io/badge/-Node-black?style=flat-square&logo=node)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![Mongo DB](https://img.shields.io/badge/-Mongo-black?style=flat-square&logo=mongo)
+![Node Js](https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=node)
+![Express JS](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Mongo DB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongo)
 
 ## All Language stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Almarex-Web-Dev&layout=compact)](https://github.com/Almarex-Web-Dev/github-readme-stats)
