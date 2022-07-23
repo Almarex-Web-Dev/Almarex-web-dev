@@ -1,8 +1,8 @@
 # Hola ! Bienvenido aqui ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> 
 <h2>I'm Abdullahi a.k.a Almarex :blush: <br /></h2>
 - :relieved: I'm a UI/UX Designer, Web Developer and a Youtuber <br />
-- 🖤 I love to bring new UI/UX Designs to live and turn it into a website <br/>
-- 🤪🤪I'm very friendly to interact with<br />
+- 🖤 I love bringing new Figma Designs to live and turn it into a real website <br/>
+- 🤪🤪I'm very friendly to interact with <br />
 - 😎 I'm always Open to new Oportunities that will enhance my skills and productivity<br />
 - 😇I'm Currently Learning Javascript <br />
 - 🤫 My Little secret... I'm deeply in love with Coding :heart:<br />
