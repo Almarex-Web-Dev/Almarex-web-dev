@@ -1,5 +1,4 @@
-# Bienvenido aqui ! 😊
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> 
+# Hola ! Bienvenido aqui ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> 
 <h2>I'm Abdullahi a.k.a Almarex :blush: <br /></h2>
 - :relieved: I'm a UI/UX Designer, Web Developer and a Youtuber <br />
 - 🖤 I love to bring new UI/UX Designs to live and turn it into a website <br/>
